@@ -1,0 +1,169 @@
+2020-10-06 16:33:23,185 - MainProcess - [DEBUG] os_utils: Disabling idle sleep not supported on this OS version.
+2020-10-06 16:33:23,999 - player - [INFO] numexpr.utils: NumExpr defaulting to 8 threads.
+2020-10-06 16:35:17,475 - player - [INFO] launchables.player: Starting new session with 'D:\zohaib\MasterThesis\experiment\Sadia\001'
+2020-10-06 16:35:17,490 - player - [INFO] pupil_recording.update.new_style: Checking for world-less recording...
+2020-10-06 16:35:17,538 - player - [WARNING] camera_models: No camera intrinsics available for camera world at resolution (1280, 720)!
+2020-10-06 16:35:17,538 - player - [WARNING] camera_models: Loading dummy intrinsics, which might decrease accuracy!
+2020-10-06 16:35:17,538 - player - [WARNING] camera_models: Consider selecting a different resolution, or running the Camera Instrinsics Estimation!
+2020-10-06 16:35:17,682 - player - [INFO] camera_models: Loading previously recorded intrinsics...
+2020-10-06 16:35:19,142 - player - [INFO] numexpr.utils: NumExpr defaulting to 8 threads.
+2020-10-06 16:35:19,179 - player - [DEBUG] video_capture.ndsi_backend: Suppressing pyre debug logs (except zbeacon)
+2020-10-06 16:35:20,005 - player - [DEBUG] pupil_apriltags: Testing possible hit: C:\Users\Zohaib\AppData\Local\Programs\Python\Python36\lib\site-packages\pupil_apriltags\lib\apriltag.dll...
+2020-10-06 16:35:20,008 - player - [DEBUG] pupil_apriltags: Found working clib at C:\Users\Zohaib\AppData\Local\Programs\Python\Python36\lib\site-packages\pupil_apriltags\lib\apriltag.dll
+2020-10-06 16:35:20,081 - player - [INFO] launchables.player: Application Version: 2.4.2
+2020-10-06 16:35:20,081 - player - [INFO] launchables.player: System Info: User: Zohaib, Platform: Windows, Machine: LAPTOP-7JAF8VD3, Release: 10, Version: 10.0.19041
+2020-10-06 16:35:20,081 - player - [DEBUG] launchables.player: Debug flag: False
+2020-10-06 16:35:20,096 - player - [DEBUG] camera_models: No recorded intrinsics found for camera world at resolution (1280, 720)
+2020-10-06 16:35:20,096 - player - [WARNING] camera_models: No camera intrinsics available for camera world at resolution (1280, 720)!
+2020-10-06 16:35:20,096 - player - [WARNING] camera_models: Loading dummy intrinsics, which might decrease accuracy!
+2020-10-06 16:35:20,096 - player - [WARNING] camera_models: Consider selecting a different resolution, or running the Camera Instrinsics Estimation!
+2020-10-06 16:35:20,615 - player - [DEBUG] plugin: Plugin File_Source failed to load, not available for import.
+2020-10-06 16:35:20,615 - player - [DEBUG] plugin: Loading plugin: Seek_Control with settings {'playback_speed': 1.0}
+2020-10-06 16:35:20,616 - player - [DEBUG] plugin: Loading plugin: Pupil_From_Recording with settings {}
+2020-10-06 16:35:22,290 - player - [DEBUG] pupil_producers: pupil positions changed
+2020-10-06 16:35:22,458 - player - [DEBUG] plugin: Loading plugin: GazeFromRecording with settings {}
+2020-10-06 16:35:22,460 - player - [DEBUG] plugin: Loading plugin: Log_Display with settings {}
+2020-10-06 16:35:22,467 - player - [DEBUG] plugin: Loading plugin: Plugin_Manager with settings {}
+2020-10-06 16:35:22,468 - player - [DEBUG] plugin: Loading plugin: Raw_Data_Exporter with settings {}
+2020-10-06 16:35:22,468 - player - [DEBUG] plugin: Loading plugin: System_Graphs with settings {'show_cpu': True, 'show_fps': True, 'show_conf0': True, 'show_conf1': True}
+2020-10-06 16:35:22,471 - player - [DEBUG] plugin: Loading plugin: System_Timelines with settings {}
+2020-10-06 16:35:22,627 - player - [DEBUG] plugin: Loading plugin: Audio_Playback with settings {}
+2020-10-06 16:35:22,637 - player - [DEBUG] plugin: Loading plugin: Log_History with settings {}
+2020-10-06 16:35:22,638 - player - [DEBUG] plugin: Loading plugin: Offline_Fixation_Detector with settings {'max_dispersion': 1.5, 'min_duration': 80, 'max_duration': 220, 'show_fixations': True}
+2020-10-06 16:35:22,639 - player - [DEBUG] plugin: Loading plugin: Offline_Head_Pose_Tracker with settings {}
+2020-10-06 16:35:22,645 - player - [DEBUG] plugin: Loading plugin: Eye_Overlay with settings {'scale': 0.6, 'alpha': 0.8, 'show_ellipses': True, 'eye0_config': {'video_path': 'D:\\zohaib\\MasterThesis\\experiment\\Sadia\\001\\eye0.intrinsics', 'origin_x': 210, 'origin_y': 60, 'scale': 0.6, 'alpha': 0.8, 'hflip': False, 'vflip': True}, 'eye1_config': {'video_path': 'D:\\zohaib\\MasterThesis\\experiment\\Sadia\\001\\eye1.intrinsics', 'origin_x': 10, 'origin_y': 60, 'scale': 0.6, 'alpha': 0.8, 'hflip': True, 'vflip': False}}
+2020-10-06 16:35:22,788 - player - [DEBUG] video_capture.file_backend: loaded videostream: <av.VideoStream #0 mjpeg, yuvj422p 320x240 at 0x1f5843bde48>
+2020-10-06 16:35:22,789 - player - [INFO] camera_models: Loading previously recorded intrinsics...
+2020-10-06 16:35:22,796 - player - [DEBUG] camera_models: No recorded intrinsics found for camera eye1 at resolution (1280, 720)
+2020-10-06 16:35:22,796 - player - [WARNING] camera_models: No camera intrinsics available for camera eye1 at resolution (1280, 720)!
+2020-10-06 16:35:22,796 - player - [WARNING] camera_models: Loading dummy intrinsics, which might decrease accuracy!
+2020-10-06 16:35:22,796 - player - [WARNING] camera_models: Consider selecting a different resolution, or running the Camera Instrinsics Estimation!
+2020-10-06 16:35:22,800 - player - [DEBUG] plugin: Loading plugin: Vis_Circle with settings {'radius': 20, 'color': [0.0, 0.7, 0.25, 0.2], 'thickness': 2, 'fill': True}
+2020-10-06 16:35:22,800 - player - [DEBUG] plugin: Loading plugin: Offline_Blink_Detection with settings {'history_length': 0.2, 'onset_confidence_threshold': 0.5, 'offset_confidence_threshold': 0.5}
+2020-10-06 16:35:22,802 - player - [DEBUG] plugin: Loading plugin: Vis_Polyline with settings {'polyline_style_init_dict': {'rgba': [1.0, 0.0, 0.4, 1.0], 'thickness': 2}, 'scan_path_init_dict': {'timeframe': 0.0}}
+2020-10-06 16:35:23,578 - player - [INFO] blink_detection: [-0.6757908  -0.59798234 -0.54769915 ...  0.02022798  0.02022798
+  0.11392821]
+2020-10-06 16:35:23,743 - player - [DEBUG] blink_detection: Recalculating took
+	0.6590sec for 102558 pp
+	155626.89496219848 pp/sec
+	size: 20
+2020-10-06 16:35:24,431 - Fixation detection - [DEBUG] background_helper: Entering _wrapper
+2020-10-06 16:35:24,432 - Fixation detection - [WARNING] fixation_detector: No data available to find fixations
+2020-10-06 16:35:24,432 - Fixation detection - [DEBUG] background_helper: Exiting _wrapper
+2020-10-06 17:02:13,603 - player - [INFO] video_export.plugins.world_video_exporter: World Video Exporter has been launched.
+2020-10-06 17:10:07,406 - player - [DEBUG] launchables.player: Starting new session with 'D:\zohaib\MasterThesis\experiment\Mustafa\002'
+2020-10-06 17:10:07,442 - player - [DEBUG] plugin: Unloaded Plugin: <vis_polyline.Vis_Polyline object at 0x000001F5947867B8>
+2020-10-06 17:10:07,442 - player - [DEBUG] plugin: Unloaded Plugin: <vis_circle.Vis_Circle object at 0x000001F5972364A8>
+2020-10-06 17:10:07,443 - player - [DEBUG] plugin: Unloaded Plugin: <blink_detection.Offline_Blink_Detection object at 0x000001F597236518>
+2020-10-06 17:10:07,443 - player - [DEBUG] plugin: Unloaded Plugin: <video_export.plugins.world_video_exporter.World_Video_Exporter object at 0x000001F597277208>
+2020-10-06 17:10:07,443 - player - [DEBUG] plugin: Unloaded Plugin: <video_overlay.plugins.eye_overlay.Eye_Overlay object at 0x000001F584439860>
+2020-10-06 17:10:07,446 - player - [DEBUG] plugin: Unloaded Plugin: <head_pose_tracker.offline_head_pose_tracker.Offline_Head_Pose_Tracker object at 0x000001F5947867F0>
+2020-10-06 17:10:07,446 - player - [DEBUG] plugin: Unloaded Plugin: <fixation_detector.Offline_Fixation_Detector object at 0x000001F594786E80>
+2020-10-06 17:10:07,446 - player - [DEBUG] plugin: Unloaded Plugin: <log_history.Log_History object at 0x000001F594786EB8>
+2020-10-06 17:10:07,446 - player - [DEBUG] plugin: Unloaded Plugin: <audio_playback.Audio_Playback object at 0x000001F584421390>
+2020-10-06 17:10:07,446 - player - [DEBUG] plugin: Unloaded Plugin: <system_timelines.System_Timelines object at 0x000001F5844540F0>
+2020-10-06 17:10:07,449 - player - [DEBUG] plugin: Unloaded Plugin: <system_graphs.System_Graphs object at 0x000001F584454160>
+2020-10-06 17:10:07,449 - player - [DEBUG] plugin: Unloaded Plugin: <raw_data_exporter.Raw_Data_Exporter object at 0x000001F5F1446F60>
+2020-10-06 17:10:07,450 - player - [DEBUG] plugin: Unloaded Plugin: <plugin_manager.Plugin_Manager object at 0x000001F5844540B8>
+2020-10-06 17:10:07,450 - player - [DEBUG] plugin: Unloaded Plugin: <log_display.Log_Display object at 0x000001F5844541D0>
+2020-10-06 17:10:07,451 - player - [DEBUG] plugin: Unloaded Plugin: <gaze_producer.gaze_from_recording.GazeFromRecording object at 0x000001F584445AC8>
+2020-10-06 17:10:07,451 - player - [DEBUG] plugin: Unloaded Plugin: <pupil_producers.Pupil_From_Recording object at 0x000001F584421208>
+2020-10-06 17:10:07,451 - player - [DEBUG] plugin: Unloaded Plugin: <seek_control.Seek_Control object at 0x000001F584421160>
+2020-10-06 17:10:07,451 - player - [DEBUG] plugin: Unloaded Plugin: <video_capture.file_backend.File_Source object at 0x000001F58204A160>
+2020-10-06 17:10:07,496 - player - [INFO] launchables.player: Process shutting down.
+2020-10-06 17:10:08,227 - player - [INFO] numexpr.utils: NumExpr defaulting to 8 threads.
+2020-10-06 17:10:09,193 - player - [INFO] launchables.player: Starting new session with 'D:\zohaib\MasterThesis\experiment\Mustafa\002'
+2020-10-06 17:10:09,205 - player - [INFO] pupil_recording.update.new_style: Checking for world-less recording...
+2020-10-06 17:10:09,349 - player - [INFO] pupil_recording.update.new_style: Patching eye intrinsics for Pupil Cam1 ID0(320, 240).
+2020-10-06 17:10:09,350 - player - [INFO] camera_models: Loading default intrinsics!
+2020-10-06 17:10:09,354 - player - [INFO] camera_models: Intrinsics for camera eye0 at resolution (320, 240) saved to D:\zohaib\MasterThesis\experiment\Mustafa\002\eye0.intrinsics
+2020-10-06 17:10:09,354 - player - [INFO] pupil_recording.update.new_style: Patching eye intrinsics for Pupil Cam1 ID0(640, 480).
+2020-10-06 17:10:09,355 - player - [INFO] camera_models: Loading default intrinsics!
+2020-10-06 17:10:09,359 - player - [INFO] camera_models: Intrinsics for camera eye0 at resolution (640, 480) saved to D:\zohaib\MasterThesis\experiment\Mustafa\002\eye0.intrinsics
+2020-10-06 17:10:09,360 - player - [INFO] pupil_recording.update.new_style: Patching eye intrinsics for Pupil Cam2 ID0(192, 192).
+2020-10-06 17:10:09,360 - player - [INFO] camera_models: Loading default intrinsics!
+2020-10-06 17:10:09,362 - player - [INFO] camera_models: Intrinsics for camera eye0 at resolution (192, 192) saved to D:\zohaib\MasterThesis\experiment\Mustafa\002\eye0.intrinsics
+2020-10-06 17:10:09,363 - player - [INFO] pupil_recording.update.new_style: Patching eye intrinsics for Pupil Cam2 ID0(400, 400).
+2020-10-06 17:10:09,363 - player - [INFO] camera_models: Loading default intrinsics!
+2020-10-06 17:10:09,365 - player - [INFO] camera_models: Intrinsics for camera eye0 at resolution (400, 400) saved to D:\zohaib\MasterThesis\experiment\Mustafa\002\eye0.intrinsics
+2020-10-06 17:10:09,365 - player - [INFO] pupil_recording.update.new_style: Patching eye intrinsics for Pupil Cam1 ID1(320, 240).
+2020-10-06 17:10:09,365 - player - [INFO] camera_models: Loading default intrinsics!
+2020-10-06 17:10:09,366 - player - [INFO] camera_models: Intrinsics for camera eye1 at resolution (320, 240) saved to D:\zohaib\MasterThesis\experiment\Mustafa\002\eye1.intrinsics
+2020-10-06 17:10:09,366 - player - [INFO] pupil_recording.update.new_style: Patching eye intrinsics for Pupil Cam1 ID1(640, 480).
+2020-10-06 17:10:09,367 - player - [INFO] camera_models: Loading default intrinsics!
+2020-10-06 17:10:09,368 - player - [INFO] camera_models: Intrinsics for camera eye1 at resolution (640, 480) saved to D:\zohaib\MasterThesis\experiment\Mustafa\002\eye1.intrinsics
+2020-10-06 17:10:09,369 - player - [INFO] pupil_recording.update.new_style: Patching eye intrinsics for Pupil Cam2 ID1(192, 192).
+2020-10-06 17:10:09,369 - player - [INFO] camera_models: Loading default intrinsics!
+2020-10-06 17:10:09,371 - player - [INFO] camera_models: Intrinsics for camera eye1 at resolution (192, 192) saved to D:\zohaib\MasterThesis\experiment\Mustafa\002\eye1.intrinsics
+2020-10-06 17:10:09,371 - player - [INFO] pupil_recording.update.new_style: Patching eye intrinsics for Pupil Cam2 ID1(400, 400).
+2020-10-06 17:10:09,372 - player - [INFO] camera_models: Loading default intrinsics!
+2020-10-06 17:10:09,375 - player - [INFO] camera_models: Intrinsics for camera eye1 at resolution (400, 400) saved to D:\zohaib\MasterThesis\experiment\Mustafa\002\eye1.intrinsics
+2020-10-06 17:10:09,410 - player - [WARNING] camera_models: No camera intrinsics available for camera world at resolution (1280, 720)!
+2020-10-06 17:10:09,410 - player - [WARNING] camera_models: Loading dummy intrinsics, which might decrease accuracy!
+2020-10-06 17:10:09,411 - player - [WARNING] camera_models: Consider selecting a different resolution, or running the Camera Instrinsics Estimation!
+2020-10-06 17:10:09,681 - player - [INFO] camera_models: Loading previously recorded intrinsics...
+2020-10-06 17:10:11,354 - player - [INFO] numexpr.utils: NumExpr defaulting to 8 threads.
+2020-10-06 17:10:11,397 - player - [DEBUG] video_capture.ndsi_backend: Suppressing pyre debug logs (except zbeacon)
+2020-10-06 17:10:12,185 - player - [DEBUG] pupil_apriltags: Testing possible hit: C:\Users\Zohaib\AppData\Local\Programs\Python\Python36\lib\site-packages\pupil_apriltags\lib\apriltag.dll...
+2020-10-06 17:10:12,186 - player - [DEBUG] pupil_apriltags: Found working clib at C:\Users\Zohaib\AppData\Local\Programs\Python\Python36\lib\site-packages\pupil_apriltags\lib\apriltag.dll
+2020-10-06 17:10:12,239 - player - [INFO] launchables.player: Application Version: 2.4.2
+2020-10-06 17:10:12,239 - player - [INFO] launchables.player: System Info: User: Zohaib, Platform: Windows, Machine: LAPTOP-7JAF8VD3, Release: 10, Version: 10.0.19041
+2020-10-06 17:10:12,240 - player - [DEBUG] launchables.player: Debug flag: False
+2020-10-06 17:10:12,252 - player - [DEBUG] camera_models: No recorded intrinsics found for camera world at resolution (1280, 720)
+2020-10-06 17:10:12,252 - player - [WARNING] camera_models: No camera intrinsics available for camera world at resolution (1280, 720)!
+2020-10-06 17:10:12,252 - player - [WARNING] camera_models: Loading dummy intrinsics, which might decrease accuracy!
+2020-10-06 17:10:12,252 - player - [WARNING] camera_models: Consider selecting a different resolution, or running the Camera Instrinsics Estimation!
+2020-10-06 17:10:12,794 - player - [DEBUG] plugin: Plugin File_Source failed to load, not available for import.
+2020-10-06 17:10:12,794 - player - [DEBUG] plugin: Loading plugin: Seek_Control with settings {'playback_speed': 1.0}
+2020-10-06 17:10:12,795 - player - [DEBUG] plugin: Loading plugin: Pupil_From_Recording with settings {}
+2020-10-06 17:10:14,636 - player - [DEBUG] pupil_producers: pupil positions changed
+2020-10-06 17:10:14,821 - player - [DEBUG] plugin: Loading plugin: GazeFromRecording with settings {}
+2020-10-06 17:10:14,823 - player - [DEBUG] plugin: Loading plugin: Log_Display with settings {}
+2020-10-06 17:10:14,830 - player - [DEBUG] plugin: Loading plugin: Plugin_Manager with settings {}
+2020-10-06 17:10:14,831 - player - [DEBUG] plugin: Loading plugin: Raw_Data_Exporter with settings {}
+2020-10-06 17:10:14,832 - player - [DEBUG] plugin: Loading plugin: System_Graphs with settings {'show_cpu': True, 'show_fps': True, 'show_conf0': True, 'show_conf1': True}
+2020-10-06 17:10:14,834 - player - [DEBUG] plugin: Loading plugin: System_Timelines with settings {}
+2020-10-06 17:10:15,017 - player - [DEBUG] plugin: Loading plugin: Audio_Playback with settings {}
+2020-10-06 17:10:15,023 - player - [DEBUG] plugin: Loading plugin: Log_History with settings {}
+2020-10-06 17:10:15,026 - player - [DEBUG] plugin: Loading plugin: Offline_Fixation_Detector with settings {'max_dispersion': 1.5, 'min_duration': 80, 'max_duration': 220, 'show_fixations': True}
+2020-10-06 17:10:15,029 - player - [DEBUG] plugin: Loading plugin: Offline_Head_Pose_Tracker with settings {}
+2020-10-06 17:10:15,036 - player - [DEBUG] plugin: Loading plugin: Eye_Overlay with settings {'scale': 0.6, 'alpha': 0.8, 'show_ellipses': True, 'eye0_config': {'video_path': 'D:\\zohaib\\MasterThesis\\experiment\\Sadia\\001\\eye0.intrinsics', 'origin_x': 210, 'origin_y': 60, 'scale': 0.6, 'alpha': 0.8, 'hflip': False, 'vflip': True}, 'eye1_config': {'video_path': 'D:\\zohaib\\MasterThesis\\experiment\\Sadia\\001\\eye1.intrinsics', 'origin_x': 10, 'origin_y': 60, 'scale': 0.6, 'alpha': 0.8, 'hflip': True, 'vflip': False}}
+2020-10-06 17:10:15,205 - player - [DEBUG] video_capture.file_backend: loaded videostream: <av.VideoStream #0 mjpeg, yuvj422p 320x240 at 0x1cfb8ab7828>
+2020-10-06 17:10:15,205 - player - [INFO] camera_models: Loading previously recorded intrinsics...
+2020-10-06 17:10:15,212 - player - [DEBUG] camera_models: No recorded intrinsics found for camera eye1 at resolution (1280, 720)
+2020-10-06 17:10:15,212 - player - [WARNING] camera_models: No camera intrinsics available for camera eye1 at resolution (1280, 720)!
+2020-10-06 17:10:15,213 - player - [WARNING] camera_models: Loading dummy intrinsics, which might decrease accuracy!
+2020-10-06 17:10:15,213 - player - [WARNING] camera_models: Consider selecting a different resolution, or running the Camera Instrinsics Estimation!
+2020-10-06 17:10:15,217 - player - [DEBUG] plugin: Loading plugin: World_Video_Exporter with settings {}
+2020-10-06 17:10:15,218 - player - [INFO] video_export.plugins.world_video_exporter: World Video Exporter has been launched.
+2020-10-06 17:10:15,218 - player - [DEBUG] plugin: Loading plugin: Vis_Circle with settings {'radius': 20, 'color': [0.0, 0.7, 0.25, 0.2], 'thickness': 2, 'fill': True}
+2020-10-06 17:10:15,218 - player - [DEBUG] plugin: Loading plugin: Offline_Blink_Detection with settings {'history_length': 0.2, 'onset_confidence_threshold': 0.5, 'offset_confidence_threshold': 0.5}
+2020-10-06 17:10:15,220 - player - [DEBUG] plugin: Loading plugin: Vis_Polyline with settings {'polyline_style_init_dict': {'rgba': [1.0, 0.0, 0.4, 1.0], 'thickness': 2}, 'scan_path_init_dict': {'timeframe': 0.0}}
+2020-10-06 17:10:16,062 - player - [INFO] blink_detection: [-1.09037929 -0.98936919 -0.87894538 ...  0.79033444  0.86594919
+  0.96695929]
+2020-10-06 17:10:16,207 - player - [DEBUG] blink_detection: Recalculating took
+	0.7213sec for 108266 pp
+	150094.88486866135 pp/sec
+	size: 22
+2020-10-06 17:10:17,024 - Fixation detection - [DEBUG] background_helper: Entering _wrapper
+2020-10-06 17:10:17,024 - Fixation detection - [WARNING] fixation_detector: No data available to find fixations
+2020-10-06 17:10:17,025 - Fixation detection - [DEBUG] background_helper: Exiting _wrapper
+2020-10-06 17:10:22,541 - player - [DEBUG] plugin: Unloaded Plugin: <vis_polyline.Vis_Polyline object at 0x000001CFB6256E80>
+2020-10-06 17:10:22,541 - player - [DEBUG] plugin: Unloaded Plugin: <vis_circle.Vis_Circle object at 0x000001CFB8AC8E80>
+2020-10-06 17:10:22,541 - player - [DEBUG] plugin: Unloaded Plugin: <blink_detection.Offline_Blink_Detection object at 0x000001CFB8AC8E48>
+2020-10-06 17:10:22,541 - player - [DEBUG] plugin: Unloaded Plugin: <video_export.plugins.world_video_exporter.World_Video_Exporter object at 0x000001CFB8AC8E10>
+2020-10-06 17:10:22,541 - player - [DEBUG] plugin: Unloaded Plugin: <video_overlay.plugins.eye_overlay.Eye_Overlay object at 0x000001CFB8ABC320>
+2020-10-06 17:10:22,544 - player - [DEBUG] plugin: Unloaded Plugin: <head_pose_tracker.offline_head_pose_tracker.Offline_Head_Pose_Tracker object at 0x000001CFB6256198>
+2020-10-06 17:10:22,544 - player - [DEBUG] plugin: Unloaded Plugin: <fixation_detector.Offline_Fixation_Detector object at 0x000001CFB6256E10>
+2020-10-06 17:10:22,544 - player - [DEBUG] plugin: Unloaded Plugin: <log_history.Log_History object at 0x000001CFB6256438>
+2020-10-06 17:10:22,544 - player - [DEBUG] plugin: Unloaded Plugin: <audio_playback.Audio_Playback object at 0x000001CFA5F80400>
+2020-10-06 17:10:22,544 - player - [DEBUG] plugin: Unloaded Plugin: <system_timelines.System_Timelines object at 0x000001CFB6256B38>
+2020-10-06 17:10:22,545 - player - [DEBUG] plugin: Unloaded Plugin: <system_graphs.System_Graphs object at 0x000001CFB6256FD0>
+2020-10-06 17:10:22,545 - player - [DEBUG] plugin: Unloaded Plugin: <raw_data_exporter.Raw_Data_Exporter object at 0x000001CF93116F28>
+2020-10-06 17:10:22,545 - player - [DEBUG] plugin: Unloaded Plugin: <plugin_manager.Plugin_Manager object at 0x000001CFB6256B70>
+2020-10-06 17:10:22,545 - player - [DEBUG] plugin: Unloaded Plugin: <log_display.Log_Display object at 0x000001CFA5F800B8>
+2020-10-06 17:10:22,545 - player - [DEBUG] plugin: Unloaded Plugin: <gaze_producer.gaze_from_recording.GazeFromRecording object at 0x000001CFA5FB0668>
+2020-10-06 17:10:22,546 - player - [DEBUG] plugin: Unloaded Plugin: <pupil_producers.Pupil_From_Recording object at 0x000001CFA5F80240>
+2020-10-06 17:10:22,546 - player - [DEBUG] plugin: Unloaded Plugin: <seek_control.Seek_Control object at 0x000001CFA5F80198>
+2020-10-06 17:10:22,546 - player - [DEBUG] plugin: Unloaded Plugin: <video_capture.file_backend.File_Source object at 0x000001CFA3BBA160>
+2020-10-06 17:10:22,602 - player - [INFO] launchables.player: Process shutting down.
